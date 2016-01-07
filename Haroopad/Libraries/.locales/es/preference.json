@@ -1,0 +1,116 @@
+{
+    "title": "Preferencias",
+    "ok": "Ok",
+    "no": "No",
+    "yes": "Si",
+    "cancel": "Cancelar",
+    "reset": "Restaurar",
+    "apply": "Aplicar",
+    "done": "Terminar",
+    "updating": "Actualizando",
+    "edit": "Editar",
+    "reload": "Recargar",
+
+    "system": {
+        "language": {
+            "update": {
+                "msg": "El paquete de lenguaje ha sido actualizado ¿Por qué no actualizar ahora?",
+                "done": "Listo :-). Por favor reinicia Haroopad.",
+                "error": "Actualización fallida :-(. Por favor verifica el estado de tu conección a Internet"
+            }
+        }
+    },
+
+    "tab": {
+        "general": "General",
+        "editor": "Editor",
+        "viewer": "Vista previa",
+        "custom": "Personalización",
+        "code": "Código",
+        "markdown": "Markdown",
+        "about": "Acerca",
+        "backup": "Respaldo"
+    },
+
+    "general": {
+        "general": "General",
+        "date-time": "Fecha & Hora",
+        "enableAutoComplete": "Habilitar auto completado de Markdown",
+        "enableSyncScroll": "Habilitar sincronización de desplazamiento",
+        "enableLastFileRestore": "Habilitar restauración del último archivo"
+    },
+
+    "editor": {
+        "general": "General",
+        "themes": "Temas",
+        "spaces": "Espacios",
+        "user-style": "Tu estilo",
+        "tab-width": "Ancho del tabulador",
+        "indent-use-tab": "Indentar usando el tabulador",
+        "display-line-number": "Mostrar números de línea",
+        "vim-key-binding": "Configuración de teclado estilo VIM",
+        "auto-pair-char": "Emparejado automático de caracteres",
+        "insert-four-space": "Insertar 4 espacios en lugar de un tabulador",
+        "display-active-line": "Visualizar línea activa",
+        "use-markdown-folding": "Utilizar el plegado de Markdown"
+    },
+
+    "viewer": {
+        "general": "General",
+        "themes": "Temas",
+        "font-size": "Tamaño de fuente",
+        "user-style": "Tu estilo",
+        "clickable-link": "Activar los enlaces en la vista previa"
+    },
+
+    "custom": {
+        "themes": "General",
+        "reload": "Recargar",
+        "directory": "Directorio",
+        "select-theme": "Selecciona tu tema",
+        "description": "Este tema aplica para la vista previa, exportar a HTML/PDF y enviar correo electrónico (Evernote, Tumblr)."
+    },
+
+    "code": {
+        "general": "General",
+        "themes": "Temas",
+        "show-line-number": "Mostrar números de línea y resaltado de sintaxis"
+    },
+
+    "markdown": {
+        "enable-gfm": "Usar Markdown estilo GitHub",
+        "etc": "Opciones adicionales",
+        "math": "Opciones de Mathematics Expression",
+        "sanitize-desc": "Ignorar cualquier etiqueta HTML que haya sido incluída",
+        "gfm-line-breaks": "Usar saltos de línea de Markdown estilo GitHub",
+        "gfm-table": "Usar tablas de Markdown estilo GitHub",
+        "smarty-list": "Usar los comportamientos de listas más inteligentes que el del Markdown original",
+        "smarty-pants": "Usar puntuación tipográfica \"inteligente\" para cosas como citas y guiones",
+        "enable-math": "Usar Mathematics Expression",
+        "restore": "Tu configuración de Markdown será restaurada a sus valores originales",
+        "enable-dollar-sign": "Usar un solo símbolo $ para expresiones en línea (predeterminado: $$$)",
+        "extra-footnotes": "Usar notas al pie"
+    },
+
+    "about": {
+        "donate": "Donar",
+        "mean": "<strong>Haroo</strong> significa \"Un día\" en Coreano",
+        "version": "Versión",
+        "official-site": "Sitio web oficial",
+        "developer": "Desarrollador",
+        "special-thanks": "Agradecimientos especiales",
+        "icon": "ICON",
+        "description": "Haroopad <small>El próximo procesador de documentos</small>",
+        "donate-msg": "Si te gusta Haroopad haz una donación para ayudar con su desarrollo"
+    },
+
+    "backup": {
+        "title": "Importar & Exportar configuración...",
+        "import": "Importar configuración",
+        "export": "Exportar configuración",
+        "import-done": "Es necesario reiniciar",
+        "import-done-msg": "Configuración importada satisfactoriamente. Tienes que reiniciar Haroopad para recargar la configuración.<br/>¿Reiniciar Haroopad?",
+        "export-done": "¡Exportación terminada!",
+        "export-done-msg": "Tu configuración ha sido exportada satisfactoriamente.<br/>Puedes importar configuraciones usando \"<b>Preferencias > Backup > Importar configuración</b>\""
+    }
+}

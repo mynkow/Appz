@@ -1,0 +1,95 @@
+{
+    "title": "",
+    "untitled": "Untitled",
+    "modified": "Edited",
+    "restored-file": "Restored (written at {{date}})",
+    "read-only-file": "read only",
+    "experimental": "experimental",
+    "placeholder": "What story do you want to write today?",
+
+    "footer": {
+        "lines": "lines",
+        "words": "words"
+    },
+
+    "toc": {
+        "name": "Table Of Contents"
+    },
+
+    "share": "Share",
+    "state": {
+        "label": "Elements",
+        "image": "Image",
+        "header": "Header",
+        "link": "Link",
+        "table": "Table",
+        "paragraph": "Paragraph",
+        "code": "Code",
+        "blockquote": "Blockquote"
+    },
+
+    "config": {
+        "toc": "Show Table of Contents",
+        "outline": "Show Document Outline",
+        "fullscreen": "Toggle Fullscreen",
+        "tab": "Tab width",
+        "usetab": "Indent Using Tab",
+        "experimental": "Experimental",
+        "spaces": "Spaces",
+        "column": {
+            "label": "Column",
+            "one": "Single",
+            "two": "Two Column",
+            "three": "Three Column"
+        },
+        "md-help": "Show Syntax Help"
+    },
+
+    "promotion": {
+        "desc": "Please Share!"
+    },
+
+    "donate": {
+        "label": "Donate",
+        "title": "Donate to help keep development going!",
+        "desc": "Has this been a help to you? Donate to help keep development going. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Donate</a>"
+    },
+
+    "email": {
+        "title": "Send email",
+        "subject": "Enter Subject",
+        "to": "TO",
+        "from": "FROM",
+        "reciver": "Enter reciver's email address",
+        "html": "HTML",
+        "markdown": "Markdown",
+        "close": "Close",
+        "send": "Send",
+        "sent": "Sent",
+        "remember": "Remember email",
+        "password": "Password",
+        "secure": "Your password will not be saved.",
+        "yours": "Enter your Gmail address",
+        "evernote": "Evernote",
+        "tumblr": "Tumblr",
+        "invalid-account": "Invalid login or password."
+    },
+
+    "dialog": {
+        "save-change": "Do you want to save the changes made to the document?",
+        "cancel": "Cancel",
+        "dont-save": "Don't Save",
+        "save": "Save",
+        "yes": "Yes",
+        "no": "No",
+        "changed-file": "has been changed by another application. <br/>Do you want to reload it?"
+    },
+
+    "upgrade": {
+        "uptodate": "You're up to date!",
+        "message": "Looking for the latest version?",
+        "note": "Release notes",
+        "download": "Download",
+        "newest": "Haroopad is currently up to date."
+    }
+}

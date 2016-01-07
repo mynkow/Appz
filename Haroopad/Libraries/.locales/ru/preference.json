@@ -1,0 +1,116 @@
+{
+    "title": "Настройки",
+    "ok": "ОК",
+    "no": "Нет",
+    "yes": "Да",
+    "cancel": "Отменить",
+    "reset": "Сбросить",
+    "apply": "Применить",
+    "done": "Done",
+    "updating": "Updating",
+    "edit": "Edit",
+    "reload": "Reload",
+
+    "system": {
+        "language": {
+            "update": {
+                "msg": "Language Pack has been updated. Why do not update now?",
+                "done": "Done :-). Please restart Haroopad.",
+                "error": "Update fail :-(. Please check your network status."
+            }
+        }    
+    },
+
+    "tab": {
+        "general": "Основные",
+        "editor": "Редактор",
+        "viewer": "Просмотр",
+        "custom": "Темы",
+        "code": "Код",
+        "markdown": "Markdown",
+        "about": "О программе",
+        "backup": "Резервное копирование"
+    },
+
+    "general": {
+        "general": "Основные",
+        "date-time": "Дата и время",
+        "enableAutoComplete": "Включеть автозавершение Markdown",
+        "enableSyncScroll": "Включить синхронную прокрутку",
+        "enableLastFileRestore": "Включить восстановление последнего файла"
+    },
+
+    "editor": {
+        "general": "Основные",
+        "themes": "Темы",
+        "spaces": "Пробелами",
+        "user-style": "Your Style",
+        "tab-width": "Ширина табуляции",
+        "indent-use-tab": "Включить табуляцию",
+        "display-line-number": "Отобразить нумерацию строк",
+        "vim-key-binding": "включить Vim раскладку",
+        "auto-pair-char": "Автоматически закрывать скобки",
+        "insert-four-space": "Вставлять 4 пробела при нажатии на табуляцию",
+        "display-active-line": "Display active line",
+        "use-markdown-folding": "Use Markdown Folding"
+    },
+
+    "viewer": {
+        "general": "Основные",
+        "themes": "Темы",
+        "font-size": "Font Size",
+        "user-style": "Your Style",
+        "clickable-link": "Сделать ссылки в предпросмотре активными"
+    },
+
+    "custom": {
+        "themes": "Основные",
+        "reload": "Обновить",
+        "directory": "Дериктория",
+        "select-theme": "Выберите тему",
+        "description": "Данная тема применяется к предпросмотру, экспорту HTML/PDF и Отправке писем(Evernote, Tumblr)."
+    },
+
+    "code": {
+        "general": "Основные",
+        "themes": "Темы",
+        "show-line-number": "Отобразить нумерацию строк в редакторе"
+    },
+
+    "markdown": {
+        "enable-gfm": "Использовать Github-диалект Markdown",
+        "etc": "Дополнительные настройки",
+        "math": "Mathematics Expression Options",
+        "sanitize-desc": "Игнорировать любой введенный HTML",
+        "gfm-line-breaks": "Использовать разрывы строк как в Github-диалекте",
+        "gfm-table": "Использовать таблицы из Github-диалекта",
+        "smarty-list": "Включить улучшенное поведение списков в markdown",
+        "smarty-pants": "Включить улучшенную типографическую пунктуацию для кавычек, тире и прочего",
+        "enable-math": "Использовать математические формулы",
+        "restore": "Сбросить все настройки Markdown на значения по умолчанию.",
+        "enable-dollar-sign": "Use Single $ Sign for Inline Expression (default: $$$)",
+        "extra-footnotes": "Use Footnotes"
+    },
+
+    "about": {
+        "donate": "Помогите",
+        "mean": "<strong>Haroo</strong> означает \"День\" по корейски",
+        "version": "Версия",
+        "official-site": "Официальный сайт",
+        "developer": "Разработчик",
+        "special-thanks": "Особая Благодарность",
+        "icon": "ЛОГО",
+        "description": "Haroopad <small>Изменяя подход к документам</small>",
+        "donate-msg": "Если вам понравился haroopad, пожалуйста пронспонсируйте его разработку"
+    },
+
+    "backup": {
+        "title": "Импорт и экспорт настроек...",
+        "import": "Импорт настроек",
+        "export": "Экспорти настроек",
+        "import-done": "Необоходим перезапуск",
+        "import-done-msg": "Настройки успешно импортированны. Необходимо перезапустить Haroopad для применения изменений.<br/>Перезапустить Haroopad?",
+        "export-done": "Экспорт завершен!",
+        "export-done-msg": "Ваши настройки успешно экспортированны.<br/>Вы можете импортировать их через \"<b>Настройки > Резервное копирование > Импорт настроек</b>\""
+    }
+}

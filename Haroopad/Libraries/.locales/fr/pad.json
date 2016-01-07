@@ -1,0 +1,95 @@
+{
+    "title": "",
+    "untitled": "Sans titre",
+    "modified": "Modifié",
+    "restored-file": "Restauré (créé le {{date}})",
+    "read-only-file": "Lecture seule",
+    "experimental": "experimental",
+    "placeholder": "Alors, pour aujourd'hui, ce sera, hum ?",
+
+    "footer": {
+        "lines": "lignes",
+        "words": "mots"
+    },
+
+    "toc": {
+        "name": "Table des matières"
+    },
+
+    "share": "Partage",
+    "state": {
+        "label": "Eléments",
+        "image": "Image",
+        "header": "En-tête",
+        "link": "Lien",
+        "table": "Tableau",
+        "paragraph": "Paragraphe",
+        "code": "Code",
+        "blockquote": "Bloc de citation"
+    },
+
+    "config": {
+        "toc": "Afficher la table des matières",
+        "outline": "Afficher la structure du document",
+        "fullscreen": "Basculer le mode plein-écran",
+        "tab": "Largeur de tabulations",
+        "usetab": "Indentation a l'aide des tabulations",
+        "experimental": "Experimental",
+        "spaces": "Espaces",
+        "column": {
+            "label": "Colonne",
+            "one": "Unique",
+            "two": "Deux colonnes",
+            "three": "Trois colonnes"
+        },
+        "md-help": "Afficher l'aide sur la syntaxe"
+    },
+
+    "promotion": {
+        "desc": "SVP Partagez !"
+    },
+
+    "donate": {
+        "label": "Donations",
+        "title": "Donnez afin d'aider au développement !",
+        "desc": "Si ce programme vous rend service, donnez afin d'aider à son développement. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Donnez</a>"
+    },
+
+    "email": {
+        "title": "Envoyer un courriel",
+        "subject": "Objet",
+        "to": "A",
+        "from": "DE",
+        "reciver": "Courriel du destinataire",
+        "html": "HTML",
+        "markdown": "Markdown",
+        "close": "Fermer",
+        "send": "Envoyer",
+        "sent": "Envoyé",
+        "remember": "Se souvenir du courriel",
+        "password": "Mot de passe",
+        "secure": "Le mot de passe ne sera pas enregistré.",
+        "yours": "Votre adresse GMail",
+        "evernote": "Evernote",
+        "tumblr": "Tumblr",
+        "invalid-account": "Identifiant et/ou mot de passe incorrect."
+    },
+
+    "dialog": {
+        "save-change": "Enregistrer les modifications apportées au document ?",
+        "cancel": "Annuler",
+        "dont-save": "Ne pas enregistrer",
+        "save": "Enregistrer",
+        "yes": "Oui",
+        "no": "Non",
+        "changed-file": "a été modifié par une autre application. <br/>Recharger ?"
+    },
+
+    "upgrade": {
+        "uptodate": "Vous êtes à jour",
+        "message": "A la recherche de la dernière version ?",
+        "note": "Note de version",
+        "download": "Téléchargement",
+        "newest": "Haroopad est actuellement la dernière version disponible."
+    }
+}

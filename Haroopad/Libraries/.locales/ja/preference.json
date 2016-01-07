@@ -1,0 +1,116 @@
+{
+    "title": "設定",
+    "ok": "OK",
+    "no": "いいえ",
+    "yes": "はい",
+    "cancel": "キャンセル",
+    "reset": "リセット",
+    "apply": "適用",
+    "done": "完了",
+    "updating": "更新中",
+    "edit": "編集",
+    "reload": "再読込",
+
+    "system": {
+        "language": {
+            "update": {
+                "msg": "言語パックが更新されました。すぐに更新を適用しますか？",
+                "done": "完了しました。Haroopad を再起動してください。",
+                "error": "更新が失敗しました。ネットワークの状況を確認してください。"
+            }
+        }    
+    },
+
+    "tab": {
+        "general": "一般",
+        "editor": "エディタ",
+        "viewer": "ビューワ",
+        "custom": "カスタム",
+        "code": "コード",
+        "markdown": "Markdown",
+        "about": "Haroopad について",
+        "backup": "バックアップ"
+    },
+
+    "general": {
+        "general": "一般",
+        "themes": "テーマ",
+        "date-time": "日時",
+        "enableAutoComplete": "Markdown の自動補完を有効にする",
+        "enableSyncScroll": "同期スクロールを有効にする",
+        "enableLastFileRestore": "前回のファイル内容を復元する"
+    },
+
+    "editor": {
+        "general": "一般",
+        "spaces": "スペース",
+        "tab-width": "タブ幅",
+        "user-style": "あなたのスタイル",
+        "indent-use-tab": "タブでインデント",
+        "display-line-number": "行番号を表示",
+        "vim-key-binding": "Vim キーバインド",
+        "auto-pair-char": "文字を自動でペア化",
+        "insert-four-space": "タブの代わりに 4 個のスペースを挿入",
+        "display-active-line": "現在の行を表示",
+        "use-markdown-folding": "Use Markdown Folding"
+    },
+
+    "viewer": {
+        "general": "一般",
+        "themes": "テーマ",
+        "font-size": "フォントサイズ",
+        "user-style": "あなたのスタイル",
+        "clickable-link": "ライブプレビューでリンクをクリック可能にする"
+    },
+
+    "custom": {
+        "themes": "一般",
+        "reload": "再読込",
+        "directory": "ディレクトリ",
+        "select-theme": "テーマを選択してください",
+        "description": "このテーマはライブプレビュー, HTML/PDF へのエクスポート, メール送信 (Evernote, Tumblr) で使用されます。"
+    },
+
+    "code": {
+        "general": "一般",
+        "themes": "テーマ",
+        "show-line-number": "シンタックスハイライトで行番号を表示"
+    },
+
+    "markdown": {
+        "enable-gfm": "Github Flavord Markdown を使用",
+        "etc": "追加のオプション",
+        "math": "数学記法のオプション",
+        "sanitize-desc": "入力された HTML を無視する。",
+        "gfm-line-breaks": "改行に Github Flavored Markdown を使用",
+        "gfm-table": "表に Github Flavord Markdown を使用",
+        "smarty-list": "オリジナルの Markdown よりスマートなリストを使用",
+        "smarty-pants": "引用符やハイフンに \"スマートな\" 句読点を用いる",
+        "enable-math": "数学記法を用いる",
+        "restore": "Markdown 設定をデフォルトに戻します",
+        "enable-dollar-sign": "インライン表記に単独の $ 記号を用いる (デフォルトは $$$)",
+        "extra-footnotes": "Use Footnotes"
+    },
+
+    "about": {
+        "donate": "寄付",
+        "mean": "<strong>Haroo</strong> は韓国語で \"一日\" を意味します",
+        "version": "バージョン",
+        "official-site": "公式サイト",
+        "developer": "開発者",
+        "special-thanks": "謝辞",
+        "icon": "ICON",
+        "description": "Haroopad <small>次世代のドキュメントプロセス</small>",
+        "donate-msg": "Haroopad が気に入ったら、寄付をお願いします"
+    },
+
+    "backup": {
+        "title": "設定のインポートとエクスポート...",
+        "import": "設定のインポート",
+        "export": "設定のエクスポート",
+        "import-done": "再起動が必要です",
+        "import-done-msg": "設定は正しくインポートされました。設定を反映するには Haroopad を再起動する必要があります。<br/>Haroopad を再起動しますか？",
+        "export-done": "エクスポートが完了しました!",
+        "export-done-msg": "設定は正しくエクスポートされました。<br/>設定をインポートするには \"<b>設定 > バックアップ > 設定のインポート</b>\" を選択してください。"
+    }
+}

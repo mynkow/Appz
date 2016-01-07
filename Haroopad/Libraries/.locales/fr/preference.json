@@ -1,0 +1,116 @@
+{
+    "title": "Préférences",
+    "ok": "OK",
+    "no": "Non",
+    "yes": "Oui",
+    "cancel": "Annuler",
+    "reset": "Remise à zéro",
+    "apply": "Appliquer",
+    "done": "Effectué",
+    "updating": "Mise à jour",
+    "edit": "Edition",
+    "reload": "Recharger",
+
+    "system": {
+        "language": {
+            "update": {
+                "msg": "Le greffon de langue a été mis à jour. Pourquoi ne pas mettre à jour maintenant ?",
+                "done": "Effectué :-). SVP redémarrez Haroopad.",
+                "error": "La mise à jour a échoué :-(. SVP vérifiez l'état du réseau."
+            }
+        }    
+    },
+
+    "tab": {
+        "general": "Général",
+        "editor": "Editeur",
+        "viewer": "Prévisualisation",
+        "custom": "Personnalisé",
+        "code": "Code",
+        "markdown": "Markdown",
+        "about": "A propos",
+        "backup": "Sauvegarde"
+    },
+
+    "general": {
+        "general": "Général",
+        "date-time": "Date & Heure",
+        "enableAutoComplete": "Activer l'auto complétion Markdown",
+        "enableSyncScroll": "Activer le scroll synchronisé",
+        "enableLastFileRestore": "Activer la restauration du dernier fichier"
+    },
+
+    "editor": {
+        "general": "Général",
+        "themes": "Thèmes",
+        "spaces": "Espaces",
+        "user-style": "Style personnalisé",
+        "tab-width": "largeur des tabulations",
+        "indent-use-tab": "Identation par tabulation"
+        "display-line-number": "Afficher les numéros de ligne",
+        "vim-key-binding": "Config clavier Vim",
+        "auto-pair-char": "Fermeture automatique des paires de caractères",
+        "insert-four-space": "Insérer 4 espaces au lieu de la tabulation",
+        "display-active-line": "Affiche la ligne active en cours",
+        "use-markdown-folding": "Utilisation folding Markdown"
+    },
+
+    "viewer": {
+        "general": "Général",
+        "themes": "Thèmes",
+        "font-size": "Taille de la police",
+        "user-style": "Style personnalisé",
+        "clickable-link": "Liens cliquables en prévisualisation"
+    },
+
+    "custom": {
+        "themes": "Général",
+        "reload": "Recharger",
+        "directory": "Répertoire",
+        "select-theme": "Sélectionnez votre thème",
+        "description": "Ce thème s'applique en prévisualisation, export HTML/PDF et en envoi de courriel (Evernote, Tumblr)."
+    },
+
+    "code": {
+        "general": "Général",
+        "themes": "Thèmes",
+        "show-line-number": "Afficher la numérotation de ligne en coloration syntaxique"
+    },
+
+    "markdown": {
+        "enable-gfm": "Utiliser le Markdown favori Github",
+        "etc": "Options supplémentaires",
+        "math": "Options d'expressions mathematiques",
+        "sanitize-desc": "Ignorer le HTML saisi.",
+        "gfm-line-breaks": "Utiliser le saut de ligne Markdown préféré Github",
+        "gfm-table": "Utiliser le tableau Markdown préféré Github",
+        "smarty-list": "Utiliser les listes intelligentes (autres que Markdown original)",
+        "smarty-pants": "Utiliser la ponctuation \"intelligente\" pour les signes tels que les guillemets ou les traits d'union",
+        "enable-math": "Utiliser les expressions mathématiques",
+        "restore": "Vos réglages Markdown seront restaurés à leur état par défaut",
+        "enable-dollar-sign": "Utiliser le signe dollar $ Sign pour les expressions (defaut: $$$)",
+        "extra-footnotes": "Utiliser les notes en bas de page"
+    },
+
+    "about": {
+        "donate": "Donner",
+        "mean": "<strong>Haroo</strong> signifie \"Un jour\" en Coréen",
+        "version": "Version",
+        "official-site": "Site officiel",
+        "developer": "Developpeur",
+        "special-thanks": "Remerciements",
+        "icon": "ICON",
+        "description": "Haroopad <small>The next document process</small>",
+        "donate-msg": "Si vous aimez haroopad, donnez afin de la faire grandir"
+    },
+
+    "backup": {
+        "title": "Import & Export de réglages...",
+        "import": "Importer des réglages",
+        "export": "Exporter des réglages",
+        "import-done": "Redémarrage nécessaire",
+        "import-done-msg": "Réglages correctement importés. Vous devez redémarrer Haroopad pour les prendre en compte.<br/>Redémarrer Haroopad ?",
+        "export-done": "Exportation terminée !",
+        "export-done-msg": "Réglages correctement exportés.<br/>Vous pouvez importer vos réglages à l'aide de : \"<b>Préférence > Sauvegarde > Importer des réglages</b>\""
+    }
+}
